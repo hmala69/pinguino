@@ -16,7 +16,7 @@ Se programa utilizando el lenguaje C/C++, con una sintaxis y librerías que son 
 ### Hardware "Hazlo tú mismo" (DIY).
 El diseño de la placa Pinguino de 8 bits está pensado para que cualquier estudiante o aficionado pueda fabricarla en casa utilizando una placa fenólica de una sola cara y componentes "Through-Hole" (de inserción), lo que la hace muy accesible.
 
-###Principales diferencias con Arduino
+### Principales diferencias con Arduino
 Arquitectura: Pinguino usa arquitectura PIC, mientras que Arduino clásico usa AVR.
 
 ### Costo de ensamble.
