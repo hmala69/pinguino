@@ -28,10 +28,10 @@ En algunos casos, el código compilado (el archivo .hex) generado por SDCC para 
 ### Aplicaciones.
 Al igual que otras tarjetas de desarrollo, Pinguino es ideal para:
 
-*Proyectos académicos de electrónica y programación.
+* Proyectos académicos de electrónica y programación.
 
-*Robótica educativa (control de motores, lectura de sensores).
+* Robótica educativa (control de motores, lectura de sensores).
 
-*Sistemas de adquisición de datos para computadoras (aprovechando su puerto USB nativo).
+* Sistemas de adquisición de datos para computadoras (aprovechando su puerto USB nativo).
 
-*Domótica y automatización de bajo costo.
+* Domótica y automatización de bajo costo.
