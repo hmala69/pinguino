@@ -3,17 +3,17 @@ Este repositorio tiene la intensión de almacenar toda aquella documentación qu
 
 ### El Proyecto consta de los siguientes elementos
 
-- **Investigación**
+**Investigación**
 * Comunidad
 * Tecnología
 * Comparación
 
-- **Prototipo**
+**Prototipo**
 * Diseño
 * Materiales
 * PCB
 
-- **Pruebas**
+**Pruebas**
 * Interfaz
 * Programación
 * Guía de implementación
