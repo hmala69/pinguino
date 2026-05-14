@@ -3,22 +3,22 @@ Este repositorio tiene la intensión de almacenar toda aquella documentación qu
 
 ### El Proyecto consta de los siguientes elementos
 
--Investigación
-*Comunidad
-*Tecnología
-*Comparación
+- Investigación
+* Comunidad
+* Tecnología
+* Comparación
 
--Prototipo
-*Diseño
-*Materiales
-*PCB
+- Prototipo
+* Diseño
+* Materiales
+* PCB
 
--Pruebas
-*Interfaz
-*Programación
-*Guía de implementación
+- Pruebas
+* Interfaz
+* Programación
+* Guía de implementación
 
 Elaborado por:
-*Gibrahan Curiel Peralta
-*Luis Salomón Islas Pablo
-*Alberto Velasco Romero
+* Gibrahan Curiel Peralta
+* Luis Salomón Islas Pablo
+* Alberto Velasco Romero
