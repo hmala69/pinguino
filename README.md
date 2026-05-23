@@ -2,6 +2,8 @@
 # 🐧 Proyecto PINGÜINO UNO 
 Este repositorio tiene la intensión de almacenar toda aquella documentación que nos permita hacer un seguimiento para la creación de la tarjeta de desarrollo con PIC
 
+
+
     .--.
    |o_o |
    |:_/ |
@@ -10,7 +12,9 @@ Este repositorio tiene la intensión de almacenar toda aquella documentación qu
 /'\_   _/`\
 \___)=(___/
 
----
+
+
+
 
 ## 📌 Descripción del proyecto
 
