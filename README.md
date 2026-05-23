@@ -4,18 +4,6 @@ Este repositorio tiene la intensión de almacenar toda aquella documentación qu
 
 
 
-    .--.
-   |o_o |
-   |:_/ |
-  //   \ \
- (|     | )
-/'\_   _/`\
-\___)=(___/
-
-
-
-
-
 ## 📌 Descripción del proyecto
 
 **PINGÜINO UNO** es una placa de desarrollo diseñada con un microcontrolador **PIC**, pensada para facilitar el aprendizaje de electrónica, programación y sistemas embebidos.
