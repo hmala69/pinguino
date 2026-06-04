@@ -1,6 +1,7 @@
 1. Introducción.
 
 El auge del hardware libre (Open Source Hardware) transformó la enseñanza de la electrónica y el desarrollo de sistemas embebidos. Si bien la arquitectura AVR de Atmel (popularizada por Arduino) domina el mercado educativo, surgieron iniciativas para democratizar el uso de otras arquitecturas de microcontroladores. El Proyecto Pinguino representa uno de los esfuerzos más significativos para integrar la robusta arquitectura PIC de Microchip dentro de una filosofía de desarrollo rápido, accesible y de código abierto.
+
 2. Historia del Proyecto Pinguino
 
 2.1 Origen y Motivación
