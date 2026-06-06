@@ -44,4 +44,4 @@ Además, al tener USB, permite que la placa Pinguino pueda conectarse directamen
 
 Considerando precio, disponibilidad y características, el PIC18F4550 es la mejor opción para continuar el proyecto. El PIC16F84A es útil para aprender lo básico, y el PIC16F877A es una opción intermedia, pero el PIC18F4550 permite desarrollar una placa más completa y moderna.
 
-Por lo tanto, el proyecto continuará tomando como base el microcontrolador **PIC18F4550**.
+Por lo tanto, el proyecto continuará tomando como base el microcontrolador **PIC18F4550**. .
