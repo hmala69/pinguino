@@ -1,2 +1,0 @@
-### diceño de pcb
-
