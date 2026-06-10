@@ -1,11 +1,10 @@
-<img width="75" alt="Pingu" src="https://github.com/user-attachments/assets/0f5424fc-7211-4a00-a874-2501a6f7728d" />
-
-### ⭕ ¿Qué es la tarjeta de desarrollo Pinguino?
+### <img width="50" alt="Pingu" src="https://github.com/user-attachments/assets/f3231805-a08a-4da0-9b7f-f689cf28ea2e" /> ⭕ ¿Qué es la tarjeta de desarrollo Pinguino?
 El Proyecto Pinguino es una plataforma de hardware y software de código abierto (open-source) para la creación de prototipos electrónicos. Nació como una alternativa inspirada en la filosofía de Arduino, pero con una diferencia fundamental: utiliza microcontroladores PIC de la empresa Microchip Technology en lugar de los microcontroladores AVR de Atmel que usa tradicionalmente Arduino.
 
 ### ◼ Características Principales.
 
-### ✔ Microcontrolador: Originalmente está basada en el PIC18F2550 (de 8 bits), aunque las versiones más recientes (Pinguino 32) soportan microcontroladores de 32 bits de la familia PIC32 (como el PIC32MX250F128B).
+### ✔ Microcontrolador.
+Originalmente está basada en el PIC18F2550 (de 8 bits), aunque las versiones más recientes (Pinguino 32) soportan microcontroladores de 32 bits de la familia PIC32 (como el PIC32MX250F128B).
 
 ### ✔ USB Nativo.
 Es una de sus mayores ventajas. El microcontrolador PIC18F2550 tiene un módulo USB integrado. Esto significa que la tarjeta Pinguino no requiere un chip conversor externo (como el FTDI que usan muchas placas Arduino) para comunicarse con la computadora, lo que reduce costos y simplifica el diseño.
