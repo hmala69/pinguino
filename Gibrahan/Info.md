@@ -1,4 +1,4 @@
-<img width="589" height="653" alt="Pingu" src="https://github.com/user-attachments/assets/0f5424fc-7211-4a00-a874-2501a6f7728d" />
+<img width="250" alt="Pingu" src="https://github.com/user-attachments/assets/0f5424fc-7211-4a00-a874-2501a6f7728d" />
 ### ¿Qué es la tarjeta de desarrollo Pinguino?
 El Proyecto Pinguino es una plataforma de hardware y software de código abierto (open-source) para la creación de prototipos electrónicos. Nació como una alternativa inspirada en la filosofía de Arduino, pero con una diferencia fundamental: utiliza microcontroladores PIC de la empresa Microchip Technology en lugar de los microcontroladores AVR de Atmel que usa tradicionalmente Arduino.
 
