@@ -1,0 +1,49 @@
+# Diseño de fuente de alimentación y regulación de voltaje
+
+## Descripción
+
+En esta tarea se realizará el diseño de la fuente de alimentación para la tarjeta de desarrollo Pinguino basada en el microcontrolador PIC18F4550.
+
+La fuente permitirá alimentar la tarjeta mediante una entrada externa de 7 V a 12 V y regular el voltaje a 5 V, que es el nivel necesario para el funcionamiento correcto del microcontrolador y los demás componentes de la placa.
+
+También se incluirá una opción de alimentación mediante USB, utilizando un selector para evitar conectar las dos fuentes al mismo tiempo.
+
+## Componentes considerados
+
+- Regulador LM7805
+- Diodo de protección 1N5819
+- Capacitor de entrada de 100 µF
+- Capacitor cerámico de entrada de 0.33 µF
+- Capacitor cerámico de salida de 0.1 µF
+- Capacitor de salida de 10 µF
+- LED indicador de encendido
+- Resistencia de 1 kΩ
+- Interruptor de encendido
+- Conector de alimentación externa
+- Conector USB
+- Jumper selector de alimentación
+
+## Funcionamiento
+
+La entrada externa podrá recibir un voltaje de entre 7 V y 12 V. Este voltaje pasará por un diodo de protección y después llegará al regulador LM7805.
+
+El regulador entregará una salida estable de 5 V para alimentar el PIC18F4550 y los demás componentes de la tarjeta.
+
+Los capacitores ayudarán a reducir el ruido eléctrico y a mantener estable el voltaje de entrada y salida.
+
+El LED servirá como indicador visual para saber cuándo la tarjeta se encuentra encendida.
+
+## Conexión general
+
+```text
+Entrada de 7 V a 12 V
+        |
+    Interruptor
+        |
+   Diodo 1N5819
+        |
+     LM7805
+        |
+   Salida de 5 V
+        |
+ PIC18F4550 y módulos
