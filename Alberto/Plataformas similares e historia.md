@@ -33,3 +33,4 @@ Placas de desarrollo de bajo costo (como el Blue Pill) basadas en los potentes p
 3.4 MSP430 LaunchPad & Energia (Texas Instruments)
 
 Tarjetas de evaluación oficiales de Texas Instruments diseñadas para su línea de microcontroladores de ultra-bajo consumo MSP430. El proyecto comunitario Energia clonó el IDE de Arduino y sus funciones para adaptarlas de forma transparente a estos chips de TI. Está fuertemente respaldado por el fabricante del silicio, lo que garantiza la disponibilidad de hardware de bajo costo y documentación oficial.
+
