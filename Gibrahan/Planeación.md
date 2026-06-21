@@ -22,9 +22,9 @@ Definir claramente los límites, entregables y requisitos técnicos de la **Tarj
 - [ ] Integrar el reporte final de Costos y Manufactura.
 
 ## 🔗 Dependencias y Sub-tareas
-* **Diseño e Ingeniería:** Vincular con #15 (Diseño de hardware), #16 (Fuentes de alimentación) y #17 (Diseño esquemático).
-* **Fabricación:** Vincular con #2 (PCB) y #3 (Investigación de fabricación de PCB's).
-* **Gestión:** Vincular con #25 (Costos y manufactura) y #5 (Misión).
+* **Diseño e Ingeniería:** Diseño de hardware, fuentes de alimentación y diseño esquemático.
+* **Fabricación:** PCB e investigación de fabricación de PCB's.
+* **Gestión:** Costos, manufactura y misión.
 
 ## 🛑 Fuera del Alcance 
 > *Elementos que NO se abordarán en esta primera fase para evitar retrasos.*
