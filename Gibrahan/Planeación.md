@@ -1,7 +1,7 @@
 ## 🎯 Objetivo de la Fase de Planeación
 Definir claramente los límites, entregables y requisitos técnicos de la **Tarjeta de Desarrollo Pinguino**, garantizando un entorno estable tanto a nivel de hardware (PIC18F4550) como de software (Pinguino IDE).
 
-## 📋 Alcance Técnico (Scope)
+## 📋 Alcance Técnico 
 
 ### 🔌 Hardware
 - **Microcontrolador base:** PIC18F4550.
@@ -26,7 +26,7 @@ Definir claramente los límites, entregables y requisitos técnicos de la **Tarj
 * **Fabricación:** Vincular con #2 (PCB) y #3 (Investigación de fabricación de PCB's).
 * **Gestión:** Vincular con #25 (Costos y manufactura) y #5 (Misión)[cite: 180, 182].
 
-## 🛑 Fuera del Alcance (Out of Scope)
+## 🛑 Fuera del Alcance 
 > *Elementos que NO se abordarán en esta primera fase para evitar retrasos.*
 * Diseño de módulos de expansión propietarios (se usarán componentes comerciales genéricos).
 * Migración del IDE a versiones de Python 3.x (se garantizará la estabilidad sobre Python 2.7 con dependencias como `six` y `wheel`).
