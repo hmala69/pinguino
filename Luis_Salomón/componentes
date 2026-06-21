@@ -1,0 +1,36 @@
+Selección de componentes de la placa Pinguino
+
+En esta tarea se realizó la selección de los componentes principales para la tarjeta de desarrollo basada en el microcontrolador PIC18F4550.
+Se eligieron componentes fáciles de conseguir, económicos y adecuados 
+para una placa educativa, con el objetivo de que el circuito sea estable, funcional y sencillo de fabricar.
+
+El componente principal seleccionado fue el PIC18F4550, ya que cuenta con comunicación USB integrada, buena cantidad de pines de entrada y salida, memoria suficiente para prácticas básicas e intermedias, y es compatible con proyectos tipo Pinguino.
+Esto lo hace una buena opción para crear una tarjeta de desarrollo enfocada en aprendizaje y programación de microcontroladores PIC.
+
+Para la alimentación se seleccionó un conector Jack DC, un diodo 1N4007 de protección y un regulador L7805.
+Esta etapa permite alimentar la tarjeta de forma segura y obtener una salida estable de 5 V, necesaria para el PIC y los demás componentes.
+El diodo ayuda a proteger el circuito contra inversión de polaridad, mientras que el regulador mantiene el voltaje correcto para evitar daños en el microcontrolador.
+
+También se agregaron capacitores de filtrado y desacoplo, como capacitores de 10 µF, 0.33 µF, 0.22 µF y 100 nF. 
+Estos componentes ayudan a reducir ruido eléctrico, estabilizar la alimentación y evitar fallas por variaciones de voltaje.
+Son importantes porque el microcontrolador necesita una alimentación limpia para trabajar correctamente.
+
+Se incluyó un cristal externo con capacitores de 22 pF, ya que permite que el PIC trabaje con una frecuencia estable.
+Esto mejora el funcionamiento del microcontrolador, especialmente cuando se usa comunicación USB o tareas que dependen del tiempo.
+
+Para la comunicación con la computadora se seleccionó un conector USB tipo B, ya que es resistente, fácil de soldar y común en tarjetas de desarrollo.
+Además, el PIC18F4550 soporta USB, por lo que este conector permite programar o comunicar la placa con una PC.
+
+También se agregó un circuito de reset con una resistencia pull-up de 10 kΩ, un capacitor y un pulsador.
+Esto permite reiniciar manualmente el microcontrolador cuando sea necesario, además de asegurar que el PIC arranque correctamente al encender la placa.
+
+Por último, se añadieron conectores de pines para exponer las entradas y salidas del microcontrolador.
+Esto facilita conectar sensores, módulos, LEDs, pantallas u otros dispositivos externos.
+También se agregó un LED indicador, útil para verificar que la tarjeta está alimentada o para pruebas básicas de programación.
+
+En general, los componentes seleccionados son adecuados porque son accesibles, económicos, 
+  fáciles de soldar y compatibles con el objetivo del proyecto. La selección busca que la placa sea confiable,
+  práctica y útil como tarjeta de desarrollo para aprender programación y electrónica con microcontroladores PIC.
+  e seleccionaron los componentes principales de la tarjeta Pinguino considerando costo, disponibilidad, 
+  facilidad de uso y compatibilidad con el PIC18F4550. La placa incluye etapa de alimentación regulada, 
+comunicación USB, cristal externo, reset, capacitores de filtrado, LED indicador y conectores de expansión para prácticas con sensores y módulos.
