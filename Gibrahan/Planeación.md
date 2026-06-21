@@ -4,29 +4,29 @@ Definir claramente los límites, entregables y requisitos técnicos de la **Tarj
 ## 📋 Alcance Técnico (Scope)
 
 ### 🔌 Hardware
-- [cite_start]**Microcontrolador base:** PIC18F4550.
-- [cite_start]**Alimentación y Regulación:** Entrada externa de 7 a 12 V con regulación a 5 V (regulador L7805)[cite: 176, 177]. [cite_start]Deberá incluir protección contra polaridad inversa, capacitores de filtrado y opción de alimentación por USB[cite: 176].
-- [cite_start]**Componentes periféricos:** Conector USB, cristal externo, circuito de reset y un LED indicador.
-- [cite_start]**Conectividad:** Pines de expansión 100% disponibles para realizar prácticas con sensores, módulos y dispositivos externos.
+- **Microcontrolador base:** PIC18F4550.
+- **Alimentación y Regulación:** Entrada externa de 7 a 12 V con regulación a 5 V (regulador L7805)[cite: 176, 177]. [cite_start]Deberá incluir protección contra polaridad inversa, capacitores de filtrado y opción de alimentación por USB[cite: 176].
+- **Componentes periféricos:** Conector USB, cristal externo, circuito de reset y un LED indicador.
+- **Conectividad:** Pines de expansión 100% disponibles para realizar prácticas con sensores, módulos y dispositivos externos.
 
 ### 💻 Software (Pinguino IDE)
-- [cite_start]**Compatibilidad:** Windows 10 o superior (32/64 bits).
-- [cite_start]**Stack Tecnológico:** Python 2.7.10 (base), pyparsing (análisis de sintaxis), PySide (motor gráfico para la interfaz) y pyusb (comunicación directa PC-placa).
+- **Compatibilidad:** Windows 10 o superior (32/64 bits).
+- **Stack Tecnológico:** Python 2.7.10 (base), pyparsing (análisis de sintaxis), PySide (motor gráfico para la interfaz) y pyusb (comunicación directa PC-placa).
 
 ## ✅ Checklist de Entregables para la v1.0
-- [ ] [cite_start]Consolidar la investigación de misión y plataformas similares[cite: 181, 182].
-- [ ] [cite_start]Aprobar el diseño de la fuente de alimentación y regulación de voltaje[cite: 176].
-- [ ] [cite_start]Cerrar la selección de componentes accesibles y económicos para el hardware final.
-- [ ] [cite_start]Finalizar el Diagrama Esquemático del Pinguino[cite: 179].
-- [ ] [cite_start]Generar y validar los archivos Gerber y Drill para la manufactura de la PCB[cite: 178].
-- [ ] [cite_start]Integrar el reporte final de Costos y Manufactura[cite: 180].
+- [ ] Consolidar la investigación de misión y plataformas similares[cite: 181, 182].
+- [ ] Aprobar el diseño de la fuente de alimentación y regulación de voltaje[cite: 176].
+- [ ] Cerrar la selección de componentes accesibles y económicos para el hardware final.
+- [ ] Finalizar el Diagrama Esquemático del Pinguino[cite: 179].
+- [ ] Generar y validar los archivos Gerber y Drill para la manufactura de la PCB[cite: 178].
+- [ ] Integrar el reporte final de Costos y Manufactura[cite: 180].
 
 ## 🔗 Dependencias y Sub-tareas
 * **Diseño e Ingeniería:** Vincular con #15 (Diseño de hardware), #16 (Fuentes de alimentación) y #17 (Diseño esquemático).
 * **Fabricación:** Vincular con #2 (PCB) y #3 (Investigación de fabricación de PCB's).
-* [cite_start]**Gestión:** Vincular con #25 (Costos y manufactura) y #5 (Misión)[cite: 180, 182].
+* **Gestión:** Vincular con #25 (Costos y manufactura) y #5 (Misión)[cite: 180, 182].
 
 ## 🛑 Fuera del Alcance (Out of Scope)
 > *Elementos que NO se abordarán en esta primera fase para evitar retrasos.*
 * Diseño de módulos de expansión propietarios (se usarán componentes comerciales genéricos).
-* [cite_start]Migración del IDE a versiones de Python 3.x (se garantizará la estabilidad sobre Python 2.7 con dependencias como `six` y `wheel`).
+* Migración del IDE a versiones de Python 3.x (se garantizará la estabilidad sobre Python 2.7 con dependencias como `six` y `wheel`).
