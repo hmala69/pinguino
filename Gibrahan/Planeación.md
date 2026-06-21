@@ -13,7 +13,7 @@ Definir claramente los límites, entregables y requisitos técnicos de la **Tarj
 - **Compatibilidad:** Windows 10 o superior (32/64 bits).
 - **Stack Tecnológico:** Python 2.7.10 (base), pyparsing (análisis de sintaxis), PySide (motor gráfico para la interfaz) y pyusb (comunicación directa PC-placa).
 
-## ✅ Checklist de Entregables para la v1.0
+## ✅ Checklist de Prioridades
 - [ ] Consolidar la investigación de misión y plataformas similares.
 - [ ] Aprobar el diseño de la fuente de alimentación y regulación de voltaje.
 - [ ] Cerrar la selección de componentes accesibles y económicos para el hardware final.
