@@ -8,7 +8,7 @@ Estas funcionalidades representan la base del entorno de desarrollo y permiten r
 
 # 💻 Editor de código
 
-Una de las funciones principales del IDE Pingüino es su editor de código, el cual permite escribir programas utilizando una sintaxis basada en el lenguaje **C**.
+Una de las funciones principales del IDE Pingüino es su editor de código, el cual permite escribir programas utilizando una sintaxis basada en el lenguaje C.
 
 El editor ofrece características que facilitan la programación, como:
 
