@@ -1,6 +1,6 @@
 # ⚙️ Funcionalidades mínimas del IDE Pingüino
 
-El **IDE Pingüino** proporciona un conjunto de herramientas esenciales que permiten desarrollar, compilar y cargar programas en microcontroladores **PIC**. Aunque es una plataforma sencilla, cuenta con las funciones necesarias para que estudiantes, docentes y desarrolladores puedan crear proyectos electrónicos de manera eficiente.
+El **IDE Pingüino** proporciona un conjunto de herramientas esenciales que permiten desarrollar, compilar y cargar programas en microcontroladores PIC. Aunque es una plataforma sencilla, cuenta con las funciones necesarias para que estudiantes, docentes y desarrolladores puedan crear proyectos electrónicos de manera eficiente.
 
 Estas funcionalidades representan la base del entorno de desarrollo y permiten realizar desde programas básicos hasta aplicaciones con diferentes dispositivos electrónicos.
 
