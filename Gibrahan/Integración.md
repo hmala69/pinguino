@@ -66,7 +66,7 @@ Para garantizar una soldadura limpia y evitar dañar los componentes térmicamen
 
 ### Placa terminada (Después)
 <p align="center">
-  <img src="ruta/a/tu/imagen_despues.jpg" alt="PCB ensamblada" width="600"/>
+  <img src="Project_images/PlacaPinguino.jpeg" alt="PCB ensamblada" width="400"/>
   <br>
   <em>Figura 2: Ensamblaje finalizado con todos los componentes soldados.</em>
 </p>
