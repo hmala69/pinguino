@@ -3,7 +3,7 @@
 ## 📋 Objetivo
 Realizar la integración física y el ensamblaje de los componentes electrónicos sobre la placa de circuito impreso (PCB) del **Proyecto Pingüino**, aplicando técnicas adecuadas de soldadura y verificando la correcta alimentación y funcionamiento del circuito regulador y del microcontrolador.
 
-## 🧰 Lista de Materiales
+## 🧰 Lista de Materiales.
 
 A continuación se detalla el listado del material requerido para el proyecto:
 
