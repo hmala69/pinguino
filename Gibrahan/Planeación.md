@@ -1,4 +1,4 @@
-## 🎯 Objetivo de la Fase de Planeación
+ ## 🎯 Objetivo de la Fase de Planeación
 Definir claramente los límites, entregables y requisitos técnicos de la **Tarjeta de Desarrollo Pinguino**, garantizando un entorno estable tanto a nivel de hardware (PIC18F4550) como de software (Pinguino IDE).
 
 ## 📋 Alcance Técnico 
