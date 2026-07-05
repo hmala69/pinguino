@@ -59,7 +59,7 @@ Para garantizar una soldadura limpia y evitar dañar los componentes térmicamen
 
 ### Placa sin ensamblar (Antes)
 <p align="center">
-  <img src="ruta/a/tu/imagen_antes.jpg" alt="PCB sin ensamblar" width="600"/>
+  <img src="Project_images/Placa.jpeg" alt="PCB sin ensamblar" width="400"/>
   <br>
   <em>Figura 1: PCB fabricada antes de la colocación de componentes.</em>
 </p>
