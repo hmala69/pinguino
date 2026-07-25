@@ -23,7 +23,7 @@
 
 > 🖼️ **IMAGEN 1: XGPRO**
 > *Software.*
-![Accesos directos de Xgpro](https://github.com/hmala69/pinguino/blob/51e7c8426065f54bf366de2e933b743c5ab7ab1a/Gibrahan/Project_images/Xgpro.jpeg)
+<img align="center" width="120" alt="Xgpro" src="https://github.com/user-attachments/assets/f3231805-a08a-4da0-9b7f-f689cf28ea2e" />
 
 ---
 
@@ -38,9 +38,9 @@
   * 🔸 *Si tu circuito usa cristal de 8 MHz* ➡️ `Bootloader_v4.14_18f4550_X8MHz.hex`
   * 🔸 *Si tu circuito usa cristal de 48 MHz* ➡️ `Bootloader_v4.14_18f4550_X48MHz.hex`
 
-> 🖼️ **[ INSERTA AQUÍ IMAGEN 2: ARCHIVOS .HEX ]**
-> *Muestra la lista de archivos de bootloader disponibles en tu carpeta.*
-![Lista de archivos .hex del Bootloader](ruta/a/tu/repositorio/image_015f45.jpg)
+> 🖼️ **IMAGEN 2: ARCHIVOS .HEX**   
+> *Archivos de bootloader disponibles.*
+<img align="center" width="120" alt="Bootloader1" src="https://github.com/user-attachments/assets/f3231805-a08a-4da0-9b7f-f689cf28ea2e" />
 
 ---
 
@@ -59,9 +59,9 @@
   * Espera a que la barra de progreso llegue al 100%.
   * Verifica que la consola devuelva el texto verde de éxito: **`Verify OK`** (Verificación correcta).
 
-> 🖼️ **[ INSERTA AQUÍ IMAGEN 3: INTERFAZ PRINCIPAL DE XGPRO ]**
-> *Muestra la interfaz del programa con el chip cargado y listo para programar.*
-![Interfaz XGecu Pro con PIC18F4550 seleccionado](ruta/a/tu/repositorio/image_015f66.jpg)
+> 🖼️ **IMAGEN 3: INTERFAZ PRINCIPAL DE XGPRO**
+> *Interfaz del programa con el chip cargado y listo para programar.*
+<img align="center" width="120" alt="Bootloader2" src="https://github.com/user-attachments/assets/f3231805-a08a-4da0-9b7f-f689cf28ea2e" />
 
 ---
 
