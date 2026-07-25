@@ -21,9 +21,9 @@
 * [ ] **Posición del chip:** Coloca el **PIC18F4550** dentro del zócalo ZIF (DIP40), asegurándote de alinear correctamente el **Pin 1** (fíjate en la palanca y el esquema de la herramienta).
 * [ ] **Apertura de la herramienta:** Abre el programa desde tu escritorio haciendo doble clic en el icono correspondiente.
 
-> 🖼️ **[ INSERTA AQUÍ IMAGEN 1: ACCESOS DIRECTOS ]**
-> *Muestra los iconos del escritorio para ubicar el software.*
-![Accesos directos de Xgpro](ruta/a/tu/repositorio/image_015f27.png)
+> 🖼️ **IMAGEN 1: XGPRO**
+> *Software.*
+![Accesos directos de Xgpro](https://github.com/hmala69/pinguino/blob/51e7c8426065f54bf366de2e933b743c5ab7ab1a/Gibrahan/Project_images/Xgpro.jpeg)
 
 ---
 
